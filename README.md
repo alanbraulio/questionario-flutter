@@ -1,6 +1,6 @@
-# questionario
+# Questionario
 
-A new Flutter project.
+Esse é um projeto feito em flutter com o intuito de desenvolver um questionário que com base nas respostas do usuário, devolve uma nota final.
 
 ## Getting Started
 
